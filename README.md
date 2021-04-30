@@ -1,3 +1,3 @@
 # TerminalSettings
 
-windows Terminal settings for Linux like pane control.
+Windows Terminal settings for Linux like pane control.
